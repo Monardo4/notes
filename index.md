@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <title>Extended Notes</title>
@@ -12,3 +11,4 @@ It just includes things that could be put in parentheses, but that are a little 
 You can find each class below:
 <br/>
 <br/>
+<a href="Vexillium.html" target="_self">ELA</a>
