@@ -16,7 +16,7 @@ You can find each class below:
   <br/>
   <br/>
 <br/>
-<a href="Vexillium.html" target="_self">ELA</a> &nbsp;|&nbsp;<a href="Vexillium.html" target="_self">IPA</a> &nbsp;|&nbsp;<a href="Vexillium.html" target="_self">Science</a>
+<a href="ela.html" target="_self">ELA</a> &nbsp;|&nbsp;<a href="ipa.html" target="_self">IPA</a> &nbsp;|&nbsp;<a href="science.html" target="_self">Science</a>
 	<style>
 body {
   background-color:#cfffbd
