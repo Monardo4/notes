@@ -20,4 +20,4 @@ You can find each class below:
 body {
   background-color:#cfffbd
 }
-</style></p>
+</style>
