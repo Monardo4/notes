@@ -4,6 +4,7 @@
 </head>
 <body>
 <center>
+	<br/>
 Hola, this is just a tiny website that I put all my extended class notes in.
   <br/>
 <br/>
