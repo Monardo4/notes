@@ -5,6 +5,7 @@
 <body>
 <center>
 	<br/>
+	<p style="font-size:30px;">Notes<p />
 Hola, this is just a tiny website that I put all my extended class notes in.
   <br/>
 <br/>
