@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Connecting Name to Number</title>
+</head>
+<body>
+    <h1>Connecting Name to Number</h1>
+    <form>
+        <label for="name">Enter a name:</label>
+        <input type="text" id="name" name="name">
+        <button type="button" onclick="connectNameToNumber()">Submit</button>
+    </form>
+    <p id="result"></p>
+
+    <script>
+        function connectNameToNumber() {
+            var nameInput = document.getElementById("name").value;
+            var number = 45; // You can change this number to any value you like
+
+            var result = document.getElementById("result");
+            result.innerHTML = "The number associated with " + nameInput + " is " + number + ".";
+        }
+    </script>
+</body>
+</html>
